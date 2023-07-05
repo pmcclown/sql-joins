@@ -3,5 +3,5 @@ create table CUSTOMERS(
     name varchar(255),
     surname varchar(255),
     age int,
-    phone_number(11);
+    phone_number varchar(11);
 )
